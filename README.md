@@ -7,6 +7,7 @@ HSH has been fully built using Python libraries, such as Torch, Pandas, Numpy, T
 
 For more details about the meaning and reason behind the project, you can read our Medium publication: https://medium.com/@al404273/detecta-discursos-de-odio-en-redes-sociales-con-hatespeechhunter-a2c20d5b4112
 For doubts or new ideas regarding HSH, feel free to contact us!
+martagmcontact@gmail.com
 
 HSH. Project developed by:
 * Adrián Gamán
